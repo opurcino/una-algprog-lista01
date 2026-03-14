@@ -1,0 +1,31 @@
+Início
+
+Abrir o site da loja online.
+
+Pesquisar pelo iPhone 17.
+
+Verificar o vendedor do produto.
+
+Se o vendedor for Amazon ou Loja Oficial Apple, continuar a compra.
+
+Caso contrário, não comprar e procurar outro vendedor.
+
+Verificar o preço do produto.
+
+Adicionar o produto ao carrinho.
+
+Verificar se o frete é grátis.
+
+Se o frete for grátis, selecionar essa opção.
+
+Caso não seja grátis, avaliar o prazo de entrega.
+
+Ir para o checkout.
+
+Verificar se há saldo disponível no cartão.
+
+Se houver saldo, confirmar a compra.
+
+Caso não haja saldo, cancelar a compra ou usar outro cartão.
+
+Fim.

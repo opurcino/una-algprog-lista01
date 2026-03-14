@@ -1,0 +1,19 @@
+Início
+
+Verificar a distância até a Estação de Metrô Novo Eldorado.
+
+Verificar se está chovendo.
+
+Se estiver chovendo, chamar um transporte por aplicativo.
+
+Caso não esteja chovendo, verificar a distância.
+
+Se a distância for menor que 1 km, ir a pé até a estação.
+
+Se a distância for maior que 1 km, usar transporte por aplicativo.
+
+Chegar na estação de metrô.
+
+Passar pela catraca da estação.
+
+Fim do algoritmo.

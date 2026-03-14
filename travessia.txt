@@ -1,0 +1,19 @@
+1)Início
+
+2)O fazendeiro leva a cabra para o outro lado do rio.
+
+3)O fazendeiro volta sozinho.
+
+4)O fazendeiro leva o lobo para o outro lado.
+
+5)O fazendeiro traz a cabra de volta para o lado inicial.
+
+6)O fazendeiro leva a couve para o outro lado do rio.
+
+7)O fazendeiro volta sozinho.
+
+8)O fazendeiro leva a cabra novamente para o outro lado.
+
+9)Agora todos estão seguros no outro lado do rio.
+
+10)Fim.
